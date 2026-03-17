@@ -11,3 +11,4 @@ sympy==1.13.1
 scipy==1.15.0
 litellm==1.59.7
 pydantic==2.10.5
+emergentintegrations
